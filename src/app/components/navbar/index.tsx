@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import tw from "twin.macro";
 import { Logo } from "../logo";
-import { NavItems } from "./navitems";
+import { NavItems } from "./navItems";
 import { Slide as Menu } from "react-burger-menu";
 
 const NavbarContainer = styled.div`

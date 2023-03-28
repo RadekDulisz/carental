@@ -5,10 +5,16 @@ import tw from "twin.macro";
 import MclarenCarImg from "../../../assets/images/mclaren-orange-big.png";
 import BlobImg from "../../../assets/images/blob.svg";
 import { SCREENS } from "../../components/responsive";
+import { Button } from "../../components/button";
 
 const TopSectionContainer = styled.div`
   min-height: 400px;
   margin-top: 6em;
+
+  @media (min-width: ${SCREENS.md}) {
+    margin-top: 8em;
+  }
+
   ${tw`
     w-full
     max-w-screen-2xl

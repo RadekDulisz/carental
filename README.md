@@ -4,6 +4,10 @@ Modern, responsive car rental web application built with React and TypeScript.
 
 The project focuses on clean UX, polished visual design, and strong front-end engineering practices: typed state management, accessible interactions, responsive navigation, booking validation, and automated test/build checks.
 
+## Live Demo
+
+Experience the app here: [Carental Live Demo]((https://carentalv2.netlify.app/))
+
 ## Live Product Scope
 
 - Premium hero and quick-search experience
@@ -122,16 +126,6 @@ To run tests:
 ```bash
 npm test
 ```
-
-## Deployment
-
-This project is ready to deploy on any static hosting platform that supports Vite output, for example:
-
-- Vercel
-- Netlify
-- GitHub Pages
-
-Build output is generated to `dist/`.
 
 ## Future Enhancements
 

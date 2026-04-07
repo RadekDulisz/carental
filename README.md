@@ -6,7 +6,7 @@ The project focuses on clean UX, polished visual design, and strong front-end en
 
 ## Live Demo
 
-Experience the app here: [Carental Live Demo]((https://carentalv2.netlify.app/))
+Experience the app here: [Carental Live Demo](https://carentalv2.netlify.app/)
 
 ## Live Product Scope
 
